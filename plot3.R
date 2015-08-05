@@ -1,4 +1,4 @@
-setwd("C:/Users/CarlosJosé/Desktop/Data Mining/Jonhs Hopkins/Ciencia de Datos/Exploratory Data Analysis")
+setwd("C:/Users/CarlosJosÃ©/Desktop/Data Mining/Jonhs Hopkins/Ciencia de Datos/Exploratory Data Analysis")
 
 source("loading_Data.R")
 
